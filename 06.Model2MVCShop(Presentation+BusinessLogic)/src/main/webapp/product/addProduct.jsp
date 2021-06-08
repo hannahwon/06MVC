@@ -1,13 +1,7 @@
 <%@ page contentType="text/html; charset=EUC-KR" pageEncoding="EUC_KR" %>
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-<%--
-<%@ page import="com.model2.mvc.service.domain.Product" %>
 
-<%
-	Product productVO = (Product)request.getAttribute("productVO");
-%>
---%>
 
 <html>
 <head>
